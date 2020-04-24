@@ -1,5 +1,10 @@
 #!/usr/bin/python3
 
+"""
+Author: illantalex
+Created: 23.04.2020
+"""
+
 import os  # to type 'clear' command in terminal
 import sys  # to get the OS name and exit the game
 from random import randint  # to generate random numbers for the computer game
